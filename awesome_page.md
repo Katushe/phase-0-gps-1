@@ -8,3 +8,5 @@ what is x
 ```
 
 [Visit Devbootcamp](http://devbootcamp.com/)
+
+![GPS 1.1 Screenshot](https://github.com/Katushe/phase-0-gps-1/blob/master/screenshot)
